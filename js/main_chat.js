@@ -1,5 +1,3 @@
-// start here, ignore below
-
 // server (make sure you have the right port), below is just an example
 	var socket = io.connect('http://ec2-184-73-100-108.compute-1.amazonaws.com:5000');
 	console.log('your script is working');
